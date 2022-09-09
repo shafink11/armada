@@ -26,7 +26,7 @@ require (
 	github.com/go-swagger/go-swagger v0.29.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.2
-	github.com/google/go-cmp v0.5.7
+	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
 	github.com/gordonklaus/ineffassign v0.0.0-20210914165742-4cc7213b9bc8
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
@@ -47,10 +47,10 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/gox v1.0.1
 	github.com/mitchellh/mapstructure v1.4.3
-	github.com/nats-io/jsm.go v0.0.26
-	github.com/nats-io/nats-server/v2 v2.8.2
+	github.com/nats-io/jsm.go v0.0.34
+	github.com/nats-io/nats-server/v2 v2.9.0
 	github.com/nats-io/nats-streaming-server v0.24.6
-	github.com/nats-io/nats.go v1.16.0
+	github.com/nats-io/nats.go v1.16.1-0.20220906180156-a1017eec10b0
 	github.com/nats-io/stan.go v0.10.2
 	github.com/oklog/ulid v1.3.1
 	github.com/pkg/errors v0.9.1
@@ -152,7 +152,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
-	github.com/klauspost/compress v1.14.4 // indirect
+	github.com/klauspost/compress v1.15.9 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/linkedin/goavro/v2 v2.9.8 // indirect
@@ -166,7 +166,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/mtibben/percent v0.2.1 // indirect
-	github.com/nats-io/jwt/v2 v2.2.1-0.20220330180145-442af02fd36a // indirect
+	github.com/nats-io/jwt/v2 v2.3.0 // indirect
 	github.com/nats-io/nkeys v0.3.0 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
@@ -191,12 +191,12 @@ require (
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.mongodb.org/mongo-driver v1.8.3 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
-	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd // indirect
+	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90 // indirect
 	golang.org/x/mod v0.5.1 // indirect
-	golang.org/x/sys v0.0.0-20220906135438-9e1f76180b77 // indirect
+	golang.org/x/sys v0.0.0-20220908164124-27713097b956 // indirect
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
+	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
